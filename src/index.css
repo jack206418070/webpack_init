@@ -1,0 +1,7 @@
+.root {
+    width: 100px;
+    height: 100px;
+    background-color: blue;
+    background-image: url(./asset/GM3AKW8BMH2_cNUgWV0Q.jpg);
+    transform: rotate(30deg);
+}
